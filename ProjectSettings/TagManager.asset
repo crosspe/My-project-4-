@@ -5,12 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Suelo
-  - patrullaje
+  - Trampa
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Jugador
   - Water
   - UI
   - 

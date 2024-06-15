@@ -1,0 +1,1632 @@
+fileFormatVersion: 2
+guid: d1fc454236444b04a8ed606c0437dd96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7372711235586966674
+    second: PixelManPlatforms_0
+  - first:
+      213: 7264296252454811243
+    second: PixelManPlatforms_1
+  - first:
+      213: 3187807542198293859
+    second: PixelManPlatforms_2
+  - first:
+      213: 4976600904903370061
+    second: PixelManPlatforms_3
+  - first:
+      213: 1524159139280547041
+    second: PixelManPlatforms_4
+  - first:
+      213: -345523109351949697
+    second: PixelManPlatforms_5
+  - first:
+      213: -629101026413512231
+    second: PixelManPlatforms_6
+  - first:
+      213: -1492560423464408041
+    second: PixelManPlatforms_7
+  - first:
+      213: -4536890951240861031
+    second: PixelManPlatforms_8
+  - first:
+      213: 6214493143520610624
+    second: PixelManPlatforms_9
+  - first:
+      213: -1729791566773763482
+    second: PixelManPlatforms_10
+  - first:
+      213: 3352053821999183461
+    second: PixelManPlatforms_11
+  - first:
+      213: -7955953273813793093
+    second: PixelManPlatforms_12
+  - first:
+      213: -61114772672904969
+    second: PixelManPlatforms_13
+  - first:
+      213: -4173252770906300181
+    second: PixelManPlatforms_14
+  - first:
+      213: 6949437389831835300
+    second: PixelManPlatforms_15
+  - first:
+      213: -6815769715910165888
+    second: PixelManPlatforms_16
+  - first:
+      213: 4664405400116557802
+    second: PixelManPlatforms_17
+  - first:
+      213: 2079621905716374983
+    second: PixelManPlatforms_18
+  - first:
+      213: -9093897911536956493
+    second: PixelManPlatforms_19
+  - first:
+      213: -4332214324985642718
+    second: PixelManPlatforms_20
+  - first:
+      213: -7642744823935160931
+    second: PixelManPlatforms_21
+  - first:
+      213: 5782359260343815617
+    second: PixelManPlatforms_22
+  - first:
+      213: -7965425679484174473
+    second: PixelManPlatforms_23
+  - first:
+      213: -2833231049068120320
+    second: PixelManPlatforms_24
+  - first:
+      213: -4072610475184800243
+    second: PixelManPlatforms_25
+  - first:
+      213: 7005663423876728655
+    second: PixelManPlatforms_26
+  - first:
+      213: 4119246823557762112
+    second: PixelManPlatforms_27
+  - first:
+      213: 3146525181982317208
+    second: PixelManPlatforms_28
+  - first:
+      213: 5510334692855582220
+    second: PixelManPlatforms_29
+  - first:
+      213: 6687899691473683840
+    second: PixelManPlatforms_30
+  - first:
+      213: 6349731250224198485
+    second: PixelManPlatforms_31
+  - first:
+      213: -4522936564363880716
+    second: PixelManPlatforms_32
+  - first:
+      213: -7001159040486239486
+    second: PixelManPlatforms_33
+  - first:
+      213: -8679201648467725981
+    second: PixelManPlatforms_34
+  - first:
+      213: -9221936948984771194
+    second: PixelManPlatforms_35
+  - first:
+      213: -620034386080387289
+    second: PixelManPlatforms_36
+  - first:
+      213: -5608710462190552408
+    second: PixelManPlatforms_37
+  - first:
+      213: 4707754288439905977
+    second: PixelManPlatforms_38
+  - first:
+      213: 606662666962695470
+    second: PixelManPlatforms_39
+  - first:
+      213: -6093839842289017529
+    second: PixelManPlatforms_40
+  - first:
+      213: 1744238770190106179
+    second: PixelManPlatforms_41
+  - first:
+      213: -1623635275057111292
+    second: PixelManPlatforms_42
+  - first:
+      213: 3987631348063970703
+    second: PixelManPlatforms_43
+  - first:
+      213: 1030228610751970562
+    second: PixelManPlatforms_44
+  - first:
+      213: 548799355827228514
+    second: PixelManPlatforms_45
+  - first:
+      213: -2442039544532406783
+    second: PixelManPlatforms_46
+  - first:
+      213: 6207967870526964446
+    second: PixelManPlatforms_47
+  - first:
+      213: 8216468325662169945
+    second: PixelManPlatforms_48
+  - first:
+      213: 5940958269788653233
+    second: PixelManPlatforms_49
+  - first:
+      213: 8767613644220065263
+    second: PixelManPlatforms_50
+  - first:
+      213: -5727799331803682551
+    second: PixelManPlatforms_51
+  - first:
+      213: -5297367377034354487
+    second: PixelManPlatforms_52
+  - first:
+      213: -3634988662120565798
+    second: PixelManPlatforms_53
+  - first:
+      213: -5672786294034388157
+    second: PixelManPlatforms_54
+  - first:
+      213: -6202984136308333641
+    second: PixelManPlatforms_55
+  - first:
+      213: -8563626200896660311
+    second: PixelManPlatforms_56
+  - first:
+      213: -1544652847009594247
+    second: PixelManPlatforms_57
+  - first:
+      213: -7205792586455647577
+    second: PixelManPlatforms_58
+  - first:
+      213: -4474712023307704747
+    second: PixelManPlatforms_59
+  - first:
+      213: 7038809843600859439
+    second: PixelManPlatforms_60
+  - first:
+      213: -7527764029366457560
+    second: PixelManPlatforms_61
+  - first:
+      213: 4418190150289908198
+    second: PixelManPlatforms_62
+  - first:
+      213: -4890138577653592106
+    second: PixelManPlatforms_63
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelManPlatforms_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f32911c8f157190800000000000000
+      internalID: -7965425679484174473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3316b95e2b77c0800000000000000
+      internalID: -4072610475184800243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478e1434cd193160800000000000000
+      internalID: 7005663423876728655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a90e46bf3baab20800000000000000
+      internalID: 3146525181982317208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0b294534a87c40800000000000000
+      internalID: 5510334692855582220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085cbbbd55130dc50800000000000000
+      internalID: 6687899691473683840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5537fc40ee6ce1850800000000000000
+      internalID: 6349731250224198485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61773882d4b31c0800000000000000
+      internalID: -4522936564363880716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2039dc742f2e6de90800000000000000
+      internalID: -7001159040486239486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b819c5184d8780800000000000000
+      internalID: -8679201648467725981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_58
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafa2f02d1effb90800000000000000
+      internalID: -7205792586455647577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55623927f11a6e1c0800000000000000
+      internalID: -4474712023307704747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f212a517240eea160800000000000000
+      internalID: 7038809843600859439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b26a4cf72088790800000000000000
+      internalID: -7527764029366457560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e82a7880905d30800000000000000
+      internalID: 4418190150289908198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df06886fdcb22cb0800000000000000
+      internalID: -4890138577653592106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07c33deecd8a445ba56b4daec311cb
+      internalID: -354354254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb4828ad264bf54698b07e686dbb34b
+      internalID: -440188899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_66
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a058e35102bda24bba38b1078bc3e35
+      internalID: -1888380558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3fd7dd7dc7de54c81a55da1f53f264
+      internalID: -1200208646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231f6419c10e7d541ab06493c0d50e9e
+      internalID: 341832639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_92
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80faeb92d625a7e44ab06f3debf06e5a
+      internalID: -959265761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceeba4b4bbacee42805e01359e575a5
+      internalID: 1100796964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3f839889949341971738d85bb04e2
+      internalID: -1797929354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b2a78302f9e8445ad3eebc4b0087cd
+      internalID: 647968464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_96
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f4b7f0bed07444f83b4b2b5aba1421
+      internalID: -397238971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cdb01a2748cc145b1097fb13c93761
+      internalID: 337666865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114efa579e9fa2a469f8feebbcbbf042
+      internalID: -1307113791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91ae5285ccf974da3180c6fb58fced
+      internalID: -1220991953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_100
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de749be7b4b93f4c87c16aca59e1a91
+      internalID: 388622970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a096909ae26ba3459ce1ebde1583571
+      internalID: 1220014899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9865afb427102e4b8a2429bad2f7c92
+      internalID: 1150234832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_126
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664035a9ad5892744ae959a9e627c2be
+      internalID: -1662575954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd8581abd5f9b4795cb615f7c19f5d
+      internalID: 2010653944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_128
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e634e136931704c891ccb1361a3b4a
+      internalID: -553469706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_129
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfe45d61db97334482880a184861285
+      internalID: -964475404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_130
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9964f66c69e02dd45998b691b8269f6f
+      internalID: 1492294321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_131
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bb5e4422fe7824da67031ef368c4ea
+      internalID: -1199135976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_132
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ce123c769f0f48a29ce05d5906980
+      internalID: -1224192110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ea1e8a08da164e8ffcf6c6b78056c
+      internalID: 2009687397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_134
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551810f8af180fb4b9ed552fa0db05c1
+      internalID: -1251237714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933dd9668d1f477419dacca05139496e
+      internalID: -1533324291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelManPlatforms_136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34e19f3986317478e3a994e2cc6372
+      internalID: -603085527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PixelManPlatforms_0: 7372711235586966674
+      PixelManPlatforms_1: 7264296252454811243
+      PixelManPlatforms_10: -1729791566773763482
+      PixelManPlatforms_100: 388622970
+      PixelManPlatforms_101: 1220014899
+      PixelManPlatforms_102: 1150234832
+      PixelManPlatforms_103: -428825463
+      PixelManPlatforms_104: 52989010
+      PixelManPlatforms_105: 1307523052
+      PixelManPlatforms_106: -765483829
+      PixelManPlatforms_107: -725759754
+      PixelManPlatforms_108: -2097580191
+      PixelManPlatforms_109: 273538174
+      PixelManPlatforms_11: 3352053821999183461
+      PixelManPlatforms_110: 611575055
+      PixelManPlatforms_111: -1475480098
+      PixelManPlatforms_112: -939892710
+      PixelManPlatforms_113: -83539471
+      PixelManPlatforms_114: -473553124
+      PixelManPlatforms_115: 96664543
+      PixelManPlatforms_116: 908218758
+      PixelManPlatforms_117: -1551287030
+      PixelManPlatforms_118: 33920716
+      PixelManPlatforms_119: 882829014
+      PixelManPlatforms_12: -7955953273813793093
+      PixelManPlatforms_120: -920333930
+      PixelManPlatforms_121: 800638876
+      PixelManPlatforms_122: -514821336
+      PixelManPlatforms_123: 1137576326
+      PixelManPlatforms_124: -403175718
+      PixelManPlatforms_125: -1220825009
+      PixelManPlatforms_126: -1662575954
+      PixelManPlatforms_127: 2010653944
+      PixelManPlatforms_128: -553469706
+      PixelManPlatforms_129: -964475404
+      PixelManPlatforms_13: -61114772672904969
+      PixelManPlatforms_130: 1492294321
+      PixelManPlatforms_131: -1199135976
+      PixelManPlatforms_132: -1224192110
+      PixelManPlatforms_133: 2009687397
+      PixelManPlatforms_134: -1251237714
+      PixelManPlatforms_135: -1533324291
+      PixelManPlatforms_136: -603085527
+      PixelManPlatforms_137: -1527012751
+      PixelManPlatforms_138: 105151034
+      PixelManPlatforms_139: 456203155
+      PixelManPlatforms_14: -4173252770906300181
+      PixelManPlatforms_140: 58755137
+      PixelManPlatforms_141: 577335150
+      PixelManPlatforms_142: 1764636990
+      PixelManPlatforms_143: -450289147
+      PixelManPlatforms_144: -1334908079
+      PixelManPlatforms_145: 30687031
+      PixelManPlatforms_146: -1514362399
+      PixelManPlatforms_147: 1408739264
+      PixelManPlatforms_148: 764017829
+      PixelManPlatforms_149: -1925812904
+      PixelManPlatforms_15: 6949437389831835300
+      PixelManPlatforms_150: -1358912332
+      PixelManPlatforms_151: 2040100589
+      PixelManPlatforms_152: -937520761
+      PixelManPlatforms_153: 541937926
+      PixelManPlatforms_154: 1221017948
+      PixelManPlatforms_155: -295615244
+      PixelManPlatforms_156: 439810331
+      PixelManPlatforms_157: 1210659249
+      PixelManPlatforms_158: 1476166826
+      PixelManPlatforms_159: 2050217792
+      PixelManPlatforms_16: -6815769715910165888
+      PixelManPlatforms_160: -489167150
+      PixelManPlatforms_161: 2088309135
+      PixelManPlatforms_162: 210901303
+      PixelManPlatforms_163: 1787459679
+      PixelManPlatforms_164: 2131213942
+      PixelManPlatforms_165: -1595114453
+      PixelManPlatforms_166: -1542453826
+      PixelManPlatforms_167: -2055072346
+      PixelManPlatforms_168: -826367041
+      PixelManPlatforms_169: 1357802638
+      PixelManPlatforms_17: 4664405400116557802
+      PixelManPlatforms_170: 524158960
+      PixelManPlatforms_171: 1644009583
+      PixelManPlatforms_172: -452295586
+      PixelManPlatforms_173: 769757796
+      PixelManPlatforms_174: 1931271278
+      PixelManPlatforms_175: 1050953889
+      PixelManPlatforms_176: 853929653
+      PixelManPlatforms_177: -1140393172
+      PixelManPlatforms_178: -805825296
+      PixelManPlatforms_179: -1455164180
+      PixelManPlatforms_18: 2079621905716374983
+      PixelManPlatforms_180: -1342862005
+      PixelManPlatforms_181: -958250326
+      PixelManPlatforms_182: 1516616675
+      PixelManPlatforms_183: 245221111
+      PixelManPlatforms_184: -52701093
+      PixelManPlatforms_185: 2111579754
+      PixelManPlatforms_186: 2055636363
+      PixelManPlatforms_187: -1514935755
+      PixelManPlatforms_188: -1545724696
+      PixelManPlatforms_189: -1635736021
+      PixelManPlatforms_19: -9093897911536956493
+      PixelManPlatforms_190: -1045371649
+      PixelManPlatforms_191: -195282644
+      PixelManPlatforms_192: -1098652346
+      PixelManPlatforms_193: -203418565
+      PixelManPlatforms_194: 1223088750
+      PixelManPlatforms_195: -1475791984
+      PixelManPlatforms_196: 1424043727
+      PixelManPlatforms_197: -1828550200
+      PixelManPlatforms_198: 1651333338
+      PixelManPlatforms_199: -721008755
+      PixelManPlatforms_2: 3187807542198293859
+      PixelManPlatforms_20: -4332214324985642718
+      PixelManPlatforms_200: -43266122
+      PixelManPlatforms_201: 545641186
+      PixelManPlatforms_202: -234340835
+      PixelManPlatforms_203: -11242519
+      PixelManPlatforms_204: 2047097953
+      PixelManPlatforms_205: 773985697
+      PixelManPlatforms_206: 149119332
+      PixelManPlatforms_207: 626232554
+      PixelManPlatforms_208: 1811107629
+      PixelManPlatforms_209: -290249632
+      PixelManPlatforms_21: -7642744823935160931
+      PixelManPlatforms_210: 1214461262
+      PixelManPlatforms_211: 1811358922
+      PixelManPlatforms_212: -1461067470
+      PixelManPlatforms_213: 162192671
+      PixelManPlatforms_214: -348247081
+      PixelManPlatforms_215: -2129752926
+      PixelManPlatforms_216: 913763150
+      PixelManPlatforms_217: -1977079554
+      PixelManPlatforms_218: -489328560
+      PixelManPlatforms_219: 1069778383
+      PixelManPlatforms_22: 5782359260343815617
+      PixelManPlatforms_220: 287713628
+      PixelManPlatforms_221: -1600319954
+      PixelManPlatforms_222: -728274319
+      PixelManPlatforms_223: 2039042189
+      PixelManPlatforms_224: 1918957233
+      PixelManPlatforms_225: -778328091
+      PixelManPlatforms_226: 1865928041
+      PixelManPlatforms_227: 546701286
+      PixelManPlatforms_228: 549420078
+      PixelManPlatforms_229: -1853381020
+      PixelManPlatforms_23: -7965425679484174473
+      PixelManPlatforms_230: 1354792513
+      PixelManPlatforms_231: -1692140911
+      PixelManPlatforms_232: -821139351
+      PixelManPlatforms_233: 1029627372
+      PixelManPlatforms_234: 291687337
+      PixelManPlatforms_235: -264352178
+      PixelManPlatforms_236: -949127950
+      PixelManPlatforms_237: -231608354
+      PixelManPlatforms_238: 190912219
+      PixelManPlatforms_239: -1356341185
+      PixelManPlatforms_24: -2833231049068120320
+      PixelManPlatforms_240: 486787524
+      PixelManPlatforms_241: -136551943
+      PixelManPlatforms_242: -259795492
+      PixelManPlatforms_243: 1240640614
+      PixelManPlatforms_244: -1776305956
+      PixelManPlatforms_245: 962859255
+      PixelManPlatforms_246: 792890990
+      PixelManPlatforms_247: 343424550
+      PixelManPlatforms_248: -282645172
+      PixelManPlatforms_249: -1416099322
+      PixelManPlatforms_25: -4072610475184800243
+      PixelManPlatforms_250: 100009023
+      PixelManPlatforms_251: 249458297
+      PixelManPlatforms_252: 87059504
+      PixelManPlatforms_253: 1269062730
+      PixelManPlatforms_254: 62742644
+      PixelManPlatforms_255: 1545299019
+      PixelManPlatforms_256: -1233439698
+      PixelManPlatforms_257: -120213203
+      PixelManPlatforms_258: 638684496
+      PixelManPlatforms_259: -1775044333
+      PixelManPlatforms_26: 7005663423876728655
+      PixelManPlatforms_260: 1735673533
+      PixelManPlatforms_261: 456564260
+      PixelManPlatforms_262: 484956186
+      PixelManPlatforms_263: -2041294864
+      PixelManPlatforms_264: 1008875048
+      PixelManPlatforms_265: 1136460044
+      PixelManPlatforms_266: -1865855908
+      PixelManPlatforms_267: -261732683
+      PixelManPlatforms_268: 164598051
+      PixelManPlatforms_269: -961126676
+      PixelManPlatforms_27: 4119246823557762112
+      PixelManPlatforms_270: 778339693
+      PixelManPlatforms_271: -126048361
+      PixelManPlatforms_272: -311128112
+      PixelManPlatforms_273: 1769874459
+      PixelManPlatforms_274: 611204876
+      PixelManPlatforms_275: 930692639
+      PixelManPlatforms_276: -1807255937
+      PixelManPlatforms_277: 626369202
+      PixelManPlatforms_278: -1609433837
+      PixelManPlatforms_279: 578782033
+      PixelManPlatforms_28: 3146525181982317208
+      PixelManPlatforms_280: -826690446
+      PixelManPlatforms_281: -62279678
+      PixelManPlatforms_282: -692528627
+      PixelManPlatforms_283: 2054858394
+      PixelManPlatforms_284: -497463604
+      PixelManPlatforms_285: -1596419850
+      PixelManPlatforms_286: -1159083202
+      PixelManPlatforms_287: 195687146
+      PixelManPlatforms_288: -847504498
+      PixelManPlatforms_289: 1850936283
+      PixelManPlatforms_29: 5510334692855582220
+      PixelManPlatforms_290: -832683398
+      PixelManPlatforms_291: -2141738728
+      PixelManPlatforms_292: -1868851185
+      PixelManPlatforms_293: 1806736237
+      PixelManPlatforms_294: -1410304034
+      PixelManPlatforms_295: 1600553969
+      PixelManPlatforms_296: -1499646877
+      PixelManPlatforms_297: -1393694491
+      PixelManPlatforms_298: 1710908875
+      PixelManPlatforms_299: 1287487345
+      PixelManPlatforms_3: 4976600904903370061
+      PixelManPlatforms_30: 6687899691473683840
+      PixelManPlatforms_300: 82446344
+      PixelManPlatforms_301: 733831952
+      PixelManPlatforms_302: -1768862030
+      PixelManPlatforms_303: 24827909
+      PixelManPlatforms_304: -1800501397
+      PixelManPlatforms_305: -1919141260
+      PixelManPlatforms_306: -139577153
+      PixelManPlatforms_307: -583184301
+      PixelManPlatforms_308: -965973902
+      PixelManPlatforms_309: 559760087
+      PixelManPlatforms_31: 6349731250224198485
+      PixelManPlatforms_310: 977121551
+      PixelManPlatforms_311: 1024873163
+      PixelManPlatforms_312: -872199065
+      PixelManPlatforms_313: -833567304
+      PixelManPlatforms_314: 642912794
+      PixelManPlatforms_315: -575860653
+      PixelManPlatforms_316: -1155106476
+      PixelManPlatforms_317: -1780860377
+      PixelManPlatforms_318: -1434341706
+      PixelManPlatforms_319: 1367126958
+      PixelManPlatforms_32: -4522936564363880716
+      PixelManPlatforms_320: -582775903
+      PixelManPlatforms_321: 1963933649
+      PixelManPlatforms_322: -167768210
+      PixelManPlatforms_323: -1970738321
+      PixelManPlatforms_324: 1981695481
+      PixelManPlatforms_325: -1828086698
+      PixelManPlatforms_326: 370107665
+      PixelManPlatforms_327: -1570152826
+      PixelManPlatforms_328: -1922849860
+      PixelManPlatforms_329: -455945853
+      PixelManPlatforms_33: -7001159040486239486
+      PixelManPlatforms_330: -133524210
+      PixelManPlatforms_331: -1408205124
+      PixelManPlatforms_332: -435993286
+      PixelManPlatforms_333: -183129104
+      PixelManPlatforms_334: -424850711
+      PixelManPlatforms_335: -1178823810
+      PixelManPlatforms_336: 88338111
+      PixelManPlatforms_337: -1710524372
+      PixelManPlatforms_338: 993258242
+      PixelManPlatforms_339: -234964403
+      PixelManPlatforms_34: -8679201648467725981
+      PixelManPlatforms_340: -1249824321
+      PixelManPlatforms_341: -1495944674
+      PixelManPlatforms_342: -1636702944
+      PixelManPlatforms_343: -1550958875
+      PixelManPlatforms_344: 719007187
+      PixelManPlatforms_345: -1389624383
+      PixelManPlatforms_346: 529059695
+      PixelManPlatforms_347: -366151329
+      PixelManPlatforms_348: -489993302
+      PixelManPlatforms_349: -1092052183
+      PixelManPlatforms_35: -9221936948984771194
+      PixelManPlatforms_350: 988089099
+      PixelManPlatforms_351: -1192811911
+      PixelManPlatforms_352: 1487956173
+      PixelManPlatforms_353: -352110990
+      PixelManPlatforms_354: -1300413055
+      PixelManPlatforms_355: 304511477
+      PixelManPlatforms_356: -287552107
+      PixelManPlatforms_357: -1501120419
+      PixelManPlatforms_358: -1304578261
+      PixelManPlatforms_359: 758262493
+      PixelManPlatforms_36: -620034386080387289
+      PixelManPlatforms_360: 503370998
+      PixelManPlatforms_361: -682882080
+      PixelManPlatforms_362: 171801558
+      PixelManPlatforms_363: -222828888
+      PixelManPlatforms_364: -1880149843
+      PixelManPlatforms_365: 1542514486
+      PixelManPlatforms_366: -980316162
+      PixelManPlatforms_367: 1778421462
+      PixelManPlatforms_368: 364824787
+      PixelManPlatforms_369: 446701709
+      PixelManPlatforms_37: -5608710462190552408
+      PixelManPlatforms_370: -514424734
+      PixelManPlatforms_371: 774115027
+      PixelManPlatforms_372: -681743020
+      PixelManPlatforms_373: 1238085526
+      PixelManPlatforms_374: -257563906
+      PixelManPlatforms_375: -681138408
+      PixelManPlatforms_376: 747997673
+      PixelManPlatforms_377: -1641514649
+      PixelManPlatforms_378: -888315319
+      PixelManPlatforms_379: 621578545
+      PixelManPlatforms_38: 4707754288439905977
+      PixelManPlatforms_380: -2097086523
+      PixelManPlatforms_381: -1477112323
+      PixelManPlatforms_382: 1344807035
+      PixelManPlatforms_383: 1563344984
+      PixelManPlatforms_384: 1519093176
+      PixelManPlatforms_385: 112261565
+      PixelManPlatforms_386: -927761150
+      PixelManPlatforms_387: -505790629
+      PixelManPlatforms_388: 594139674
+      PixelManPlatforms_389: -1946335443
+      PixelManPlatforms_39: 606662666962695470
+      PixelManPlatforms_390: 1033879357
+      PixelManPlatforms_391: -1440325851
+      PixelManPlatforms_392: 805065611
+      PixelManPlatforms_393: 619040667
+      PixelManPlatforms_394: 482196624
+      PixelManPlatforms_395: 360137451
+      PixelManPlatforms_396: 1244366284
+      PixelManPlatforms_397: -1442423540
+      PixelManPlatforms_398: 1480952836
+      PixelManPlatforms_399: -13511609
+      PixelManPlatforms_4: 1524159139280547041
+      PixelManPlatforms_40: -6093839842289017529
+      PixelManPlatforms_400: 1998300636
+      PixelManPlatforms_401: -259392776
+      PixelManPlatforms_41: 1744238770190106179
+      PixelManPlatforms_42: -1623635275057111292
+      PixelManPlatforms_43: 3987631348063970703
+      PixelManPlatforms_44: 1030228610751970562
+      PixelManPlatforms_45: 548799355827228514
+      PixelManPlatforms_46: -2442039544532406783
+      PixelManPlatforms_47: 6207967870526964446
+      PixelManPlatforms_48: 8216468325662169945
+      PixelManPlatforms_49: 5940958269788653233
+      PixelManPlatforms_5: -345523109351949697
+      PixelManPlatforms_50: 8767613644220065263
+      PixelManPlatforms_51: -5727799331803682551
+      PixelManPlatforms_52: -5297367377034354487
+      PixelManPlatforms_53: -3634988662120565798
+      PixelManPlatforms_54: -5672786294034388157
+      PixelManPlatforms_55: -6202984136308333641
+      PixelManPlatforms_56: -8563626200896660311
+      PixelManPlatforms_57: -1544652847009594247
+      PixelManPlatforms_58: -7205792586455647577
+      PixelManPlatforms_59: -4474712023307704747
+      PixelManPlatforms_6: -629101026413512231
+      PixelManPlatforms_60: 7038809843600859439
+      PixelManPlatforms_61: -7527764029366457560
+      PixelManPlatforms_62: 4418190150289908198
+      PixelManPlatforms_63: -4890138577653592106
+      PixelManPlatforms_64: -354354254
+      PixelManPlatforms_65: -440188899
+      PixelManPlatforms_66: -1888380558
+      PixelManPlatforms_67: -1200208646
+      PixelManPlatforms_68: 341832639
+      PixelManPlatforms_69: 1302690413
+      PixelManPlatforms_7: -1492560423464408041
+      PixelManPlatforms_70: 18750173
+      PixelManPlatforms_71: -307006923
+      PixelManPlatforms_72: 811728643
+      PixelManPlatforms_73: 1417498449
+      PixelManPlatforms_74: 99947198
+      PixelManPlatforms_75: 1781257137
+      PixelManPlatforms_76: 484999312
+      PixelManPlatforms_77: 442564175
+      PixelManPlatforms_78: 1590210226
+      PixelManPlatforms_79: 1931635219
+      PixelManPlatforms_8: -4536890951240861031
+      PixelManPlatforms_80: -1832128581
+      PixelManPlatforms_81: -145022371
+      PixelManPlatforms_82: -62880125
+      PixelManPlatforms_83: -449726888
+      PixelManPlatforms_84: 1850291594
+      PixelManPlatforms_85: -1993473305
+      PixelManPlatforms_86: -1778741963
+      PixelManPlatforms_87: 878593969
+      PixelManPlatforms_88: 1035081781
+      PixelManPlatforms_89: 641670737
+      PixelManPlatforms_9: 6214493143520610624
+      PixelManPlatforms_90: -350813854
+      PixelManPlatforms_91: 1154990713
+      PixelManPlatforms_92: -959265761
+      PixelManPlatforms_93: 1100796964
+      PixelManPlatforms_94: -1797929354
+      PixelManPlatforms_95: 647968464
+      PixelManPlatforms_96: -397238971
+      PixelManPlatforms_97: 337666865
+      PixelManPlatforms_98: -1307113791
+      PixelManPlatforms_99: -1220991953
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

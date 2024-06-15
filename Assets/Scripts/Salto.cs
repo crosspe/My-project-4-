@@ -9,7 +9,9 @@ public class Salto : MonoBehaviour
     private Rigidbody2D Rigidbody2D;
     private bool isGrounded;
 
-    private void Start()
+
+
+    private void Start() 
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
     }
